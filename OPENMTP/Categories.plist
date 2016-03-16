@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Loisir</key>
+	<dict>
+		<key>Sports</key>
+		<dict>
+			<key>Terrains de sport</key>
+			<string></string>
+			<key>Clubs de sport</key>
+			<string></string>
+			<key>Aires de jeu par âges</key>
+			<string></string>
+		</dict>
+		<key>Divertissements</key>
+		<dict>
+			<key>Cinémas</key>
+			<string></string>
+			<key>Zoos</key>
+			<string></string>
+			<key>Piscines</key>
+			<string></string>
+		</dict>
+		<key>Art et Culture</key>
+		<dict>
+			<key>Musées</key>
+			<string></string>
+			<key>Oeuvres d&apos;Art</key>
+			<string></string>
+			<key>Zones Artistiques Temporaires</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Pratique</key>
+	<dict>
+		<key>Equipements</key>
+		<dict>
+			<key>Fointaines d&apos;eau</key>
+			<string></string>
+			<key>Points d&apos;accès WiFi</key>
+			<string></string>
+			<key>Distributeurs de billets</key>
+			<string></string>
+		</dict>
+		<key>Lieux pratiques</key>
+		<dict>
+			<key>Stations service</key>
+			<string></string>
+			<key>Magasins</key>
+			<string></string>
+			<key>Toilettes publiques</key>
+			<string></string>
+		</dict>
+		<key>Transport et Circulation</key>
+		<dict>
+			<key>Arrêts de transports en commun</key>
+			<string></string>
+			<key>Places de parking</key>
+			<string></string>
+			<key>Zones taxi</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Interêt</key>
+	<dict>
+		<key>Urbanisme</key>
+		<dict>
+			<key>Bâtiments d&apos;interêt</key>
+			<string></string>
+			<key>Parcs publics</key>
+			<string></string>
+			<key>Arbres remarquables</key>
+			<string></string>
+		</dict>
+		<key>Numérique</key>
+		<dict>
+			<key>Caméras de surveillance</key>
+			<string></string>
+			<key>Panneaux d&apos;informations</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>
