@@ -1,5 +1,4 @@
 # openmtp-ios
-========
 
 OpenMTP is an open-source application for iOS that lets the users find Montpellier's interest points of (almost) any kind in a very engaging way. I developed and designed this application during my studies.
 
